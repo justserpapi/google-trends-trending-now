@@ -24,6 +24,16 @@ Retrieve the latest trending topics and daily search trends across different reg
 
 Use this repository as a focused entry point for `/api/v1/google/trends/trending-now`. The examples use the official [JustSerpAPI Python SDK](https://pypi.org/project/justserpapi/?utm_source=github.com&utm_medium=referral&utm_campaign=justserpapi_google_trends_trending_now&utm_content=repo_readme_pypi_badge) where the endpoint is covered by the SDK, and direct HTTP requests for web crawling endpoints.
 
+## Platform Overview
+
+The documentation center helps you browse endpoint health, versioned API paths, request parameters, and SERP-specific usage notes.
+
+[![JustSerpAPI documentation overview](docs/images/readme/api-docs-en.jpg)](https://docs.justserpapi.com/?utm_source=github.com&utm_medium=referral&utm_campaign=justserpapi_google_trends_trending_now&utm_content=repo_readme_docs_image)
+
+The console provides API key management, subscription status, credit visibility, request logs, usage trends, and credit consumption analytics.
+
+[![JustSerpAPI console overview](docs/images/readme/console-en.jpg)](https://dashboard.justserpapi.com/?utm_source=github.com&utm_medium=referral&utm_campaign=justserpapi_google_trends_trending_now&utm_content=repo_readme_dashboard_image)
+
 ## Installation
 
 ```bash
